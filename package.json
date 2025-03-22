@@ -1,11 +1,11 @@
 {
-  "name": "GOIT-JS-HW-12",
+  "name": "goit-js-hw-12",
   "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/GOIT-JS-HW-12/",
+    "build": "vite build --base=/goit-js-hw-12/",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
